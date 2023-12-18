@@ -9,12 +9,11 @@ the observed differences in accuracy among these algorithms.
 
 <br>Accuracy:
 <br>
-**Random Forest 98.54 %
+**Random Forest 98.54 %**
 <br>
-XGBoost 98.62 %
+**XGBoost 98.62 %**
 <br>
-Naive Bayes 68.44 %
-**
+**Naive Bayes 68.44 %**
 <br>
 <br>
 This implementation was done for PICT(SPPU) Seminar Course (Sem V). 
